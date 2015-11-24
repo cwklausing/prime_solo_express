@@ -1,5 +1,7 @@
 body {
     background: url('./cash.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
 }
 
@@ -16,7 +18,7 @@ button {
     border-radius: 15px;
     height: 80px;
     width: 370px;
-    margin-top: 50px;
+    margin: 50px;
     border: 5px dotted black;
 }
 

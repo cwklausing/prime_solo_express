@@ -11,7 +11,7 @@ $(function() {
 	}).done(function(html){
 		//append the output of /balance
 		//to the div '.display'
-		$('button').hide().delay(200).text("" + html).fadeIn(500);
+		$('.account').hide().delay(200).text("" + html).fadeIn(500);
 		})
 	});
 	

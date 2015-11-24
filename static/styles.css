@@ -1,0 +1,25 @@
+body {
+    background: url('./cash.jpg');
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Asset', cursive;
+    font-size: 4em;
+    text-shadow: 5px 5px #b3cccc;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    background-color: #b3cccc;
+    border-radius: 15px;
+    height: 80px;
+    width: 370px;
+    margin-top: 50px;
+    border: 5px dotted black;
+}
+
+:focus {
+    outline: none;
+}
